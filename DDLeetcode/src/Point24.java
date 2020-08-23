@@ -87,7 +87,6 @@ public class Point24 {
     public static void main(String[] args) {
         Solution s = new Solution();
         int a[] = new int[]{4, 1, 8, 7};
-
         if (s.judgePoint24(a))System.out.println("yes");
     }
 
